@@ -1,0 +1,1 @@
+hcxdumptool -i wlan0 -w sample.pcapng --rds=1 -F
