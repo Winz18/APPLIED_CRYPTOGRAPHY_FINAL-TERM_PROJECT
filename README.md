@@ -1,0 +1,2 @@
+# APPLIED_CRYPTOGRAPHY_FINAL-TERM_PROJECT
+ A research about PMKID Attack on WPA/WPA2 PSK network
