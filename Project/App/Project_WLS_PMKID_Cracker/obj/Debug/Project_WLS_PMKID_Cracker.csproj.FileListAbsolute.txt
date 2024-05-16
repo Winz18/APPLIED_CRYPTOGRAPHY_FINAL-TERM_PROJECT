@@ -1,0 +1,10 @@
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\Mat Ma Ung Dung\Lab\Project_WLS_PMKID_Cracker\Project_WLS_PMKID_Cracker\bin\Debug\Project_WLS_PMKID_Cracker.exe.config
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\Mat Ma Ung Dung\Lab\Project_WLS_PMKID_Cracker\Project_WLS_PMKID_Cracker\bin\Debug\Project_WLS_PMKID_Cracker.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\Mat Ma Ung Dung\Lab\Project_WLS_PMKID_Cracker\Project_WLS_PMKID_Cracker\bin\Debug\Project_WLS_PMKID_Cracker.pdb
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\Mat Ma Ung Dung\Lab\Project_WLS_PMKID_Cracker\Project_WLS_PMKID_Cracker\obj\Debug\Project_WLS_PMKID_Cracker.csproj.AssemblyReference.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\Mat Ma Ung Dung\Lab\Project_WLS_PMKID_Cracker\Project_WLS_PMKID_Cracker\obj\Debug\Project_WLS_PMKID_Cracker.MainForm.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\Mat Ma Ung Dung\Lab\Project_WLS_PMKID_Cracker\Project_WLS_PMKID_Cracker\obj\Debug\Project_WLS_PMKID_Cracker.Properties.Resources.resources
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\Mat Ma Ung Dung\Lab\Project_WLS_PMKID_Cracker\Project_WLS_PMKID_Cracker\obj\Debug\Project_WLS_PMKID_Cracker.csproj.GenerateResource.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\Mat Ma Ung Dung\Lab\Project_WLS_PMKID_Cracker\Project_WLS_PMKID_Cracker\obj\Debug\Project_WLS_PMKID_Cracker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\Mat Ma Ung Dung\Lab\Project_WLS_PMKID_Cracker\Project_WLS_PMKID_Cracker\obj\Debug\Project_WLS_PMKID_Cracker.exe
+C:\Users\Admin\Hoc Tap\University\Mon Hoc\Mat Ma Ung Dung\Lab\Project_WLS_PMKID_Cracker\Project_WLS_PMKID_Cracker\obj\Debug\Project_WLS_PMKID_Cracker.pdb
